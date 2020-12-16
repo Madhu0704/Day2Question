@@ -1,7 +1,7 @@
 Sample input:
-upper bound :10
+upper bound :15
 lower bound:2
   
 
 Output:
- 3,5,7,9
+ 3,5,7,9,11,13
