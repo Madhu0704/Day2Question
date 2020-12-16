@@ -1,0 +1,7 @@
+Sample input:
+upper bound :10
+lower bound:2
+  
+
+Output:
+ 3,5,7,9
