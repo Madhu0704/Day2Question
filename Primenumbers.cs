@@ -51,6 +51,7 @@ namespace prime_numbers
               
                 if (flag == 1)
                     Console.WriteLine(i);
+                Console.Writeine("Hello from Manoj");
             }
         }
     }
